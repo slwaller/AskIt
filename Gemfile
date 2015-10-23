@@ -17,7 +17,7 @@ gem 'paperclip', '~> 4.2.1'
 gem 'bootstrap-sass', '~> 3.3.3'
 gem 'devise'
 gem 'html2haml'
-gem 'haml-rails'
+gem 'haml', '~> 4.0.6'
 gem 'quiet_assets'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
